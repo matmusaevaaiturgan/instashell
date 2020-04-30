@@ -1,0 +1,8 @@
+apt - get  update
+apt - get install tor
+service tor start
+git clone
+https://github.com/matmusaevaaiturgan/instashell
+cd instashell
+chmod +x instashell.sh
+./instashell.sh
